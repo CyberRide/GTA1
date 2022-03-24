@@ -1,3 +1,4 @@
 # GTA1
 Make GTA 1 Style Game in Python (Ursina Engine)
-#credit goes to @ZippyCodeYT
+
+## Credit goes to @ZippyCodeYT
